@@ -56,3 +56,7 @@ tracker.visualize_expenses()
 
 
 Project Link: [https://github.com/yourusername/personal-finance-tracker](https://github.com/aditya19200/personal-finance-tracker)
+
+#screenshot 
+![expense_breakdown](https://github.com/user-attachments/assets/ac857aa3-d863-44f9-964e-3496295bd678)
+
